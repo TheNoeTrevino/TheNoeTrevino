@@ -1,19 +1,22 @@
 # Hello, I'm Noe Trevino!
 
 I am currently pursuing a Graduate Degree in Computer Science at the University of North Texas. 
-Right now, I am really trying to sharpen my skill in the web development area. I learned a lot of Angular and Java at my most recent internship. 
-I am now learning React and Django, with still honing my skills in Angular and Java.
 
-Here are some of the technologies I know:
-## Technologies
+Right now, I am really trying to sharpen my skills in the web development area, as well as algorithms as I am trying to get ready to get a job. 
+
+I learned a lot of Angular and Java at my most recent internship, and I plan to continue using Java/Spring/Hibernate for as many backend pursuits as I can, but will begin leaning more on React as that is more employable with the current job market.
+
+At the moment, I am learning React and Django, and still honing my skills in Java.
+
+## Technologies I know:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular
 - **Backend**: Java, Django
 - **Databases**: PostgreSQL
 - **Version Control**: Git, GitHub
-- **Other**: Neovim, Linux, MacOS
+- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, 
 
 ## What I'm Doing Now
-- Building a sight reading application deigned got public school programs
+- Building a sight reading application designed for public school music programs
 - Consistenly practicing data structures and algorithms
 - Learning big data science techniques
 - Deigning malware for a cybersecurity class
