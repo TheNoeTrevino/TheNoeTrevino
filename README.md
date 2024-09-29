@@ -19,7 +19,7 @@ At the moment, I am learning React and Django, and still honing my skills in Jav
 - Building a sight reading application designed for public school music programs
 - Consistenly practicing data structures and algorithms
 - Learning big data science techniques
-- Deigning malware for a cybersecurity class
+- Designing malware for a cybersecurity class
 
 ### Check out my repositories if you would like to see my progress!
 
