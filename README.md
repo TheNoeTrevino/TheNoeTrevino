@@ -21,7 +21,7 @@ At the moment, I am learning React and Django, and still honing my skills in Jav
 - Learning [big data science](https://github.com/TheNoeTrevino/school-assignments) techniques
 - Designing [malware](https://github.com/TheNoeTrevino/no-hope) for a cybersecurity class
 
-### Check out my repositories if you would like to see my progress!
+### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my progress!
 
 <!---
 ## 💬 Let's Connect!
