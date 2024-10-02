@@ -18,7 +18,7 @@ At the moment, I am learning React and Django, and still honing my skills in Jav
 ## What I'm Doing Now
 - Building a [sight reading application](https://github.com/TheNoeTrevino/sight-reading-app) designed for public school music programs
 - Consistenly practicing [data structures and algorithms](https://github.com/TheNoeTrevino/ds-and-algos)
-- Learning [big data science](https://github.com/TheNoeTrevino/school-assignments) techniques
+- Learning [big data science](https://github.com/TheNoeTrevino/school-assignments/tree/main/school/big-data-science) techniques
 - Designing [malware](https://github.com/TheNoeTrevino/no-hope) for a cybersecurity class
 
 ### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my progress!
