@@ -9,11 +9,11 @@ I learned a lot of Angular and Java at my most recent internship. I plan to cont
 At the moment, I am learning React and Django, and still honing my skills in Java.
 
 ## Technologies I know:
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular
+- **Frontend**: HTML/CSS/TypeScript, React, Material-UI, Angular, Bootstrap
 - **Backend**: Java/Spring, Python/Django
 - **Databases**: PostgreSQL
 - **Version Control**: Git, GitHub
-- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, SQL
+- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, SQL, Music21, OpenSheetMusicDisplay
 
 ## What I'm Doing Now
 - Building a [sight reading application](https://github.com/TheNoeTrevino/sight-reading-app) designed for public school music programs
