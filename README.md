@@ -8,7 +8,7 @@ I learned a lot of Angular and Java at my most recent internship. I plan to cont
 
 At the moment, I am learning React and Django, and still honing my skills in Java.
 
-## Technologies I know:
+## Technologies I know
 - **Frontend**: HTML/CSS/TypeScript, React, Material-UI, Angular, Bootstrap
 - **Backend**: Java/Spring, Python/Django
 - **Databases**: PostgreSQL
