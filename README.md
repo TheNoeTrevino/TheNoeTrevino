@@ -10,10 +10,10 @@ At the moment, I am learning React and Django, and still honing my skills in Jav
 
 ## Technologies I know:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Angular
-- **Backend**: Java, Django
+- **Backend**: Java/Spring, Python/Django
 - **Databases**: PostgreSQL
 - **Version Control**: Git, GitHub
-- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, Python
+- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, SQL
 
 ## What I'm Doing Now
 - Building a [sight reading application](https://github.com/TheNoeTrevino/sight-reading-app) designed for public school music programs
