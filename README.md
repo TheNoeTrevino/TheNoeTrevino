@@ -1,19 +1,13 @@
 # Hello, I'm Noe Trevino!
 
-I am currently pursuing a Graduate Degree in Computer Science at the University of North Texas. 
-
-Right now, I am really trying to sharpen my skills in the web development area, as well as algorithms since I am trying to get ready to get a job. 
-
-I learned a lot of Angular and Java at my most recent internship. I plan to continue using Java/Spring/Hibernate for as many backend pursuits as I can, but will begin leaning more on React for my frontend frameworks, as that is more employable with the current job market.
-
-At the moment, I am learning React, Django and Go.
+Check out my recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
 - **Frontend**: HTML/CSS/TypeScript, React, Material-UI, Angular, Bootstrap
 - **Backend**: Java/Spring, Python/Django, Go/Sqlx
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL/Neon
 - **Version Control**: Git, GitHub
-- **Other**: Neovim/Vim, Linux, MacOS, DBeaver, SQL, Music21, OpenSheetMusicDisplay
+- **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
 
 ## What I'm Doing Now
 - Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
@@ -21,7 +15,7 @@ At the moment, I am learning React, Django and Go.
 - Learning [big data science](https://github.com/TheNoeTrevino/school-assignments/tree/main/school/big-data-science) techniques
 - Designing [malware](https://github.com/TheNoeTrevino/no-hope) for a cybersecurity class
 
-### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my progress!
+### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
 <!---
 ## 💬 Let's Connect!
