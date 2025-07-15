@@ -10,6 +10,7 @@ Check out my recent deployment [here!](https://havnermusic.com/)
 - **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
 
 ## What I'm Doing Now
+- Software Consultant Intern at RESPEC
 - Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
 - Consistenly practicing [data structures and algorithms](https://github.com/TheNoeTrevino/ds-and-algos)
 - Learning [big data science](https://github.com/TheNoeTrevino/school-assignments/tree/main/school/big-data-science) techniques
