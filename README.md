@@ -11,12 +11,12 @@ Check out my most recent deployment [here!](https://havnermusic.com/)
 
 ## What I'm Doing Now
 - Building a [NeoVim plugin](https://github.com/TheNoeTrevino/roids.nvim) for injecting syntax highlighting into multiline strings, and other cases.
-- Software Consultant Intern at RESPEC
 - Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
 - Consistenly practicing [data structures and algorithms](https://github.com/TheNoeTrevino/ds-and-algos)
 - Learning [big data science](https://github.com/TheNoeTrevino/school-assignments/tree/main/school/big-data-science) techniques
 - Designing [malware](https://github.com/TheNoeTrevino/no-hope) for a cybersecurity class
-
+- Fulltime Software Consultant
+  
 ### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
 <!---
