@@ -1,6 +1,6 @@
 # Hello, I'm Noe Trevino!
 
-Check out my recent deployment [here!](https://havnermusic.com/)
+Check out my most recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
 - **Frontend**: HTML/CSS/TypeScript, React, Material-UI, Angular, Bootstrap
@@ -10,6 +10,7 @@ Check out my recent deployment [here!](https://havnermusic.com/)
 - **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
 
 ## What I'm Doing Now
+- Building a [NeoVim](https://github.com/TheNoeTrevino/roids.nvim) plugin for injecting syntax highlighting into multiline strings, and other cases.
 - Software Consultant Intern at RESPEC
 - Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
 - Consistenly practicing [data structures and algorithms](https://github.com/TheNoeTrevino/ds-and-algos)
