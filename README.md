@@ -19,4 +19,5 @@ My most recent deployment [here!](https://havnermusic.com/)
   
 ### Check out my [repositories](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
+I am open to work.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/noe-trevino-7422962aa/)) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:noetrevino.music@gmail.com)
