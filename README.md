@@ -1,9 +1,7 @@
 
-![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
-
 # Hello, I'm Noe Trevino!
 
-Check out my most recent deployment [here!](https://havnermusic.com/)
+![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
 
 ## Technologies I know
 - **Frontend**: React, Angular, Blazor, Material-UI, Bootstrap
@@ -11,6 +9,8 @@ Check out my most recent deployment [here!](https://havnermusic.com/)
 - **Databases**: PostgreSQL/Neon
 - **Version Control**: Git, GitHub
 - **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
+
+My most recent deployment [here!](https://havnermusic.com/)
 
 ## What I'm Doing Now
 - Creating a [NeoVim plugin](https://github.com/TheNoeTrevino/roids.nvim) for injecting syntax highlighting into multiline strings, and other cases.
