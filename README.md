@@ -19,5 +19,4 @@ Check out my most recent deployment [here!](https://havnermusic.com/)
   
 ### Check out my [repositories](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
-![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/noe-trevino-7422962aa/)) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
