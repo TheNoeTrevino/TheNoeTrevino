@@ -1,3 +1,6 @@
+
+![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
+
 # Hello, I'm Noe Trevino!
 
 Check out my most recent deployment [here!](https://havnermusic.com/)
@@ -14,15 +17,7 @@ Check out my most recent deployment [here!](https://havnermusic.com/)
 - Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
 - Fulltime Software Consultant
   
-### Check out my repositories [here](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
+### Check out my [repositories](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
-<!---
-## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate on projects or discuss anything related to web development and computer science!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
-
-
-TheNoeTrevino/TheNoeTrevino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/noe-trevino-7422962aa/)) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
