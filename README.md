@@ -3,8 +3,8 @@
 Check out my most recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
-- **Frontend**: HTML/CSS/TypeScript, React, Material-UI, Angular, Bootstrap
-- **Backend**: Java/Spring, Python/Django, Go/Sqlx
+- **Frontend**: React, Angular, Blazor, Material-UI, Bootstrap
+- **Backend**: Java/Spring, Python/Django, Go/Sqlx, CSharp/Dotnet
 - **Databases**: PostgreSQL/Neon
 - **Version Control**: Git, GitHub
 - **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
