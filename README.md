@@ -12,7 +12,7 @@ My most recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
 - **Frontend**: React, Angular, Blazor, Material-UI, Bootstrap
-- **Backend**: Java/Spring, Python/FastAPI, Go/Sqlx, CSharp/Dotnet
+- **Backend**: Java/Spring, Python/FastAPI, Go/Sqlx, CSharp/.NET
 - **Databases**: PostgreSQL/Neon
 - **Version Control**: Git, GitHub
 - **Other**: Neovim/Vim, Linux, Unix, MacOS, SQL, Docker
