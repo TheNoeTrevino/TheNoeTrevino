@@ -22,4 +22,4 @@ My most recent deployment [here!](https://havnermusic.com/)
 
 I am open to work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/noe-trevino-7422962aa/)) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:noetrevino.music@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/noe-trevino-7422962aa/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:noetrevino.music@gmail.com)
