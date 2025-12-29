@@ -1,7 +1,7 @@
 
 # Hello, I'm Noe Trevino!
 
-![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
+![Noe's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
 
 ## What I'm Doing Now
 - Creating a [NeoVim plugin](https://github.com/TheNoeTrevino/roids.nvim) for injecting syntax highlighting into multiline strings, and other cases.
