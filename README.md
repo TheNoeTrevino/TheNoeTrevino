@@ -6,7 +6,7 @@
 ## What I'm Doing Now
 - Fulltime Software Consultant
 - Creating a Neovim plugins for annotations, syntax highlight, and more. 
-- Building a [sight reading application](https://tremolo-notes.com) designed for public school music programs
+- Building a [sight reading application](https://tremolonotes.com) designed for public school music programs
 
 
 My most recent deployment [here!](https://havnermusic.com/)
