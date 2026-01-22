@@ -4,9 +4,10 @@
 ![Noe's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TheNoeTrevino&show_icons=true&bg_color=00000000)
 
 ## What I'm Doing Now
-- Creating a [NeoVim plugin](https://github.com/TheNoeTrevino/roids.nvim) for injecting syntax highlighting into multiline strings, and other cases.
-- Building a [sight reading application](https://github.com/TheNoeTrevino/tremolo) designed for public school music programs
 - Fulltime Software Consultant
+- Creating a Neovim plugins for annotations, syntax highlight, and more. 
+- Building a [sight reading application](https://tremolo-notes.com) designed for public school music programs
+
 
 My most recent deployment [here!](https://havnermusic.com/)
 
