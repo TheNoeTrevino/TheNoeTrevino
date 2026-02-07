@@ -6,7 +6,7 @@
 I am a highly adaptable developer with a passion for web development, FOSS, efficient text editing with vim, and performant programs. 
 
 ## What I'm Doing Now
-- Fulltime Software Consultant
+- Fulltime Software Consultant. I love helping clients get the solutions they need, not necessarily want!
 - Creating and maintaining Neovim plugins for annotations, syntax highlight, and more. 
 - Building a closed source, but free to use, [sight reading application](https://tremolonotes.com) designed for public school music programs
 - Venturing into the world of self-hosting websites and services
@@ -15,10 +15,10 @@ Take a look at my most recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
 - **Frontend**: React, Angular, Blazor
-- **Backend**: Java/Spring, Python/FastAPI, Go/Sqlc/Gin, CSharp/.NET
+- **Backend**: Java (Spring), Python (FastAPI), Go (Sqlc, Gin), CSharp (.NET)
 - **Databases**: PostgreSQL, SQLite, SQLServer
 - **Version Control**: Git/GitHub/BitBucket
-- **Other**: Neovim/Vim, Linux, MacOS, Docker
+- **Other**: Lua, Neovim/Vim, Linux, Docker, Self-Hosting(Linux), Scripting, CI/CD
   
 ### Check out my [repositories](https://github.com/TheNoeTrevino?tab=repositories) if you would like to see my projects!
 
