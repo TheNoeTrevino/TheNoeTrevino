@@ -15,7 +15,7 @@ Take a look at my most recent deployment [here!](https://havnermusic.com/)
 
 ## Technologies I know
 - **Frontend**: React, Angular, Blazor
-- **Backend**: Java (Spring), Python (FastAPI), Go (Sqlc, Gin), CSharp (.NET)
+- **Backend**: Java (Spring), Python (FastAPI), Go (Sqlc), CSharp (.NET)
 - **Databases**: PostgreSQL, SQLite, SQLServer
 - **Version Control**: Git/GitHub/BitBucket
 - **Other**: Lua, Neovim/Vim, Linux, Docker, Self-Hosting(Linux), Scripting, CI/CD
